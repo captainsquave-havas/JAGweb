@@ -1,0 +1,33 @@
+head{
+  }
+
+body{
+  font-family: monospace;
+  background-color: Black;
+  color: White;
+}
+
+header{
+  background-color: Green;
+  padding: 1em;
+  }
+
+main{
+  background-color: Tomato;
+  display: flex;
+  }
+
+footer{
+  background-color: Blue
+  }
+
+  #left-column {
+    flex: 1;
+  }
+
+  #center-column {
+    flex: 2;
+  }
+
+  #right-column {
+    flex: 1;
